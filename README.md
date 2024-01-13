@@ -13,8 +13,8 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="/java-svgrepo-com.png">
     <img align="center" height="30" width="35" alt="react-icon" src="/spring-svgrepo-com.png">
     <img align="center" height="30" width="35" alt="react-icon" src="/thymeleaf.png">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="/icons8-html5-96.png">
+    <img align="center" height="30" width="40" alt="css-icon" src="/icons8-css-96.png">
    </div>
 
   <h1 align="center">Redes Sociais</h1>
