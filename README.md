@@ -22,6 +22,6 @@
       <img width="25" src="/linkedin-1-svgrepo-com.png">
     </a>
     <a href = "https://github.com/wanderleySilva-silva">
-      <img width="25" src="/github-svgrepo-com.png">
+      <img width="25" src="/icons8-github-64.png">
     </a>
 </div>
