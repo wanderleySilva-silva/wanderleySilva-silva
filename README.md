@@ -11,9 +11,20 @@
   <div style="display: inline_block"><br>
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="/java-svgrepo-com.png">
-    <img align="center" height="30" width="40" alt="react-icon" src="/spring-svgrepo-com.png">
-    <img align="center" height="30" width="40" alt="react-icon" src="/thymeleaf.png">
+    <img align="center" height="30" width="35" alt="react-icon" src="/spring-svgrepo-com.png">
+    <img align="center" height="30" width="35" alt="react-icon" src="/thymeleaf.png">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   
    </div>
+
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "https://www.linkedin.com/in/jos%C3%A9-wanderley-pereira-da-silva-06b106a0/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
