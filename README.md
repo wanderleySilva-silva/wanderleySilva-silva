@@ -10,10 +10,10 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="/java-svgrepo-com.png">
-    <img align="center" height="30" width="35" alt="react-icon" src="/spring-svgrepo-com.png">
-    <img align="center" height="30" width="35" alt="react-icon" src="/thymeleaf.png">
-    <img align="center" height="30" width="40" alt="html-icon" src="/icons8-postgreesql-96.png">
+    <img align="center" height="30" width="40" alt="java-icon"  src="/java-svgrepo-com.png">
+    <img align="center" height="30" width="35" alt="spring-icon" src="/spring-svgrepo-com.png">
+    <img align="center" height="30" width="35" alt="thymeleaf-icon" src="/thymeleaf.png">
+    <img align="center" height="30" width="40" alt="postgresql-icon" src="/icons8-postgreesql-96.png">
    </div>
 
   <h1 align="center">Redes Sociais</h1>
