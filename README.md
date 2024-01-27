@@ -9,7 +9,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Principais Tecnologias</h1>
     <img align="center" height="30" width="40" alt="java-icon"  src="/java-svgrepo-com.png">
     <img align="center" height="30" width="35" alt="spring-icon" src="/spring-svgrepo-com.png">
     <img align="center" height="30" width="35" alt="thymeleaf-icon" src="/thymeleaf.png">
